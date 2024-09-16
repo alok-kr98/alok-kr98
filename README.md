@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taccu2022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taccu2022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-kr98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-kr98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ### Projects:
 
-- **[Appointment Management System](https://github.com/Taccu2022/appointment-system)** (C++)
+- **[Appointment Management System](https://github.com/alok-kr98/appointment-system)** (C++)
   - Built a CLI-based appointment system using **SQLite**.
   - Implemented template-based design for database operations, improving code reusability and modularity.
   - Managed build automation using **CMake** and handled dependencies using **Conan**.
@@ -87,4 +87,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Taccu2022/Taccu2022/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alok-kr98/alok-kr98/output/snake.svg" alt="Snake animation" />
